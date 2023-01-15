@@ -1,2 +1,2 @@
-# gajni
+# ghajini
 ephemeral todos
